@@ -1,3 +1,4 @@
+![Photo](./photo.jpg)
 # Alina Cheremisina
 **Contacts**: 
 1. Discord: Alina_Cherr#5212
