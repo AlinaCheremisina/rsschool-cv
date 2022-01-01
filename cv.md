@@ -13,4 +13,5 @@
 *Unfortunately, I don't have any experience in this field, but I would really like to get the JS development skill.*
 # Education
 *At the moment I am getting a higher education by profession as a teacher of Russian language and literature.*
-
+## English language
+A1 (*school education*).
