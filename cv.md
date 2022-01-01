@@ -11,7 +11,9 @@
 ## Code examples
 `const multiply = (a, b) => a * b;`
 ## Work experience
-*Unfortunately, I don't have any experience in this field, but I would really like to get the JS development skill.*
+*Unfortunately, I don't have any experience in this field, but I would really like to get the JS development skill.* 
+
+[Link on my task] (https://alinacheremisina.github.io/rsschool-cv/cv)
 # Education
 *At the moment I am getting a higher education by profession as a teacher of Russian language and literature.*
 ## English language
