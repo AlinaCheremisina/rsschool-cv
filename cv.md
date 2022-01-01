@@ -7,5 +7,10 @@
 *My name is Alina Cheremisina. I want to learn how to develop websites. Of the useful skills I have acquired in life, I have perseverance and patience. I easily learn something new.*
 
 **Skills**: I have mastered the HTML markup language and the style language CSS.
-# Code examples
+## Code examples
 `const multiply = (a, b) => a * b;`
+## Work experience
+*Unfortunately, I don't have any experience in this field, but I would really like to get the JS development skill.*
+# Education
+*At the moment I am getting a higher education by profession as a teacher of Russian language and literature.*
+
