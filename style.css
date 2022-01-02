@@ -2,3 +2,42 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  display: flex;
+  line-height: 28px;
+  width: 90%;
+  margin-top: 15px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.profession {
+  margin: 0;
+  padding: 0;
+}
+
+.left-side {
+  width: 70%;
+  height: auto;
+  margin-left: 50px;
+}
+
+.right-side {
+  width: 30%;
+  height: auto;
+}
+
+.photo {
+  width: 100px;
+}
